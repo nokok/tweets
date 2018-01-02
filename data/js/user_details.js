@@ -1,8 +1,8 @@
 var user_details =  {
   "screen_name" : "noko_k",
-  "location" : "Constant pool",
-  "full_name" : "noko.\u2615\u958B\u767A\u518D\u958B",
-  "bio" : "Karaffe\u3068\u3044\u3046\u81EA\u4F5CJVM\u8A00\u8A9E\u3092\u958B\u767A\u3057\u3066\u3044\u308BJavarista\u3067\u3059\u3002\u77E5\u3089\u306A\u3044\u975E\u516C\u958B\u30A2\u30AB\u30A6\u30F3\u30C8\u306E\u65B9\u306F\u4E00\u5F8B\u3067\u30D6\u30ED\u30C3\u30AF\u3057\u3066\u3044\u307E\u3059\u306E\u3067\u3054\u4E86\u627F\u304F\u3060\u3056\u3044\u3002 https:\/\/t.co\/IbDbR9nIAa",
+  "location" : "Metaspace",
+  "full_name" : "noko.Karaffe\u958B\u767A\u4E2D\u2615",
+  "bio" : "Karaffe\u3068\u3044\u3046\u81EA\u4F5CJVM\u8A00\u8A9E https:\/\/t.co\/PNmfxwGBVo \u3092\u958B\u767A\u3057\u3066\u3044\u308BJava\u4F7F\u3044\u3067\u3059\u3002\u6700\u8FD1\u306FScala\u3082\u3002",
   "id" : "93628973",
   "created_at" : "2009-11-30 13:23:02 +0000"
 }
