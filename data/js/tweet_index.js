@@ -1,164 +1,188 @@
 var tweet_index =  [ {
+  "file_name" : "data\/js\/tweets\/2018_05.js",
+  "year" : 2018,
+  "var_name" : "tweets_2018_05",
+  "tweet_count" : 866,
+  "month" : 5
+}, {
+  "file_name" : "data\/js\/tweets\/2018_04.js",
+  "year" : 2018,
+  "var_name" : "tweets_2018_04",
+  "tweet_count" : 813,
+  "month" : 4
+}, {
+  "file_name" : "data\/js\/tweets\/2018_03.js",
+  "year" : 2018,
+  "var_name" : "tweets_2018_03",
+  "tweet_count" : 747,
+  "month" : 3
+}, {
+  "file_name" : "data\/js\/tweets\/2018_02.js",
+  "year" : 2018,
+  "var_name" : "tweets_2018_02",
+  "tweet_count" : 434,
+  "month" : 2
+}, {
   "file_name" : "data\/js\/tweets\/2018_01.js",
   "year" : 2018,
   "var_name" : "tweets_2018_01",
-  "tweet_count" : 141,
+  "tweet_count" : 665,
   "month" : 1
 }, {
   "file_name" : "data\/js\/tweets\/2017_12.js",
   "year" : 2017,
   "var_name" : "tweets_2017_12",
-  "tweet_count" : 860,
+  "tweet_count" : 856,
   "month" : 12
 }, {
   "file_name" : "data\/js\/tweets\/2017_11.js",
   "year" : 2017,
   "var_name" : "tweets_2017_11",
-  "tweet_count" : 982,
+  "tweet_count" : 980,
   "month" : 11
 }, {
   "file_name" : "data\/js\/tweets\/2017_10.js",
   "year" : 2017,
   "var_name" : "tweets_2017_10",
-  "tweet_count" : 1193,
+  "tweet_count" : 1184,
   "month" : 10
 }, {
   "file_name" : "data\/js\/tweets\/2017_09.js",
   "year" : 2017,
   "var_name" : "tweets_2017_09",
-  "tweet_count" : 962,
+  "tweet_count" : 961,
   "month" : 9
 }, {
   "file_name" : "data\/js\/tweets\/2017_08.js",
   "year" : 2017,
   "var_name" : "tweets_2017_08",
-  "tweet_count" : 882,
+  "tweet_count" : 880,
   "month" : 8
 }, {
   "file_name" : "data\/js\/tweets\/2017_07.js",
   "year" : 2017,
   "var_name" : "tweets_2017_07",
-  "tweet_count" : 788,
+  "tweet_count" : 786,
   "month" : 7
 }, {
   "file_name" : "data\/js\/tweets\/2017_06.js",
   "year" : 2017,
   "var_name" : "tweets_2017_06",
-  "tweet_count" : 759,
+  "tweet_count" : 758,
   "month" : 6
 }, {
   "file_name" : "data\/js\/tweets\/2017_05.js",
   "year" : 2017,
   "var_name" : "tweets_2017_05",
-  "tweet_count" : 880,
+  "tweet_count" : 874,
   "month" : 5
 }, {
   "file_name" : "data\/js\/tweets\/2017_04.js",
   "year" : 2017,
   "var_name" : "tweets_2017_04",
-  "tweet_count" : 705,
+  "tweet_count" : 702,
   "month" : 4
 }, {
   "file_name" : "data\/js\/tweets\/2017_03.js",
   "year" : 2017,
   "var_name" : "tweets_2017_03",
-  "tweet_count" : 686,
+  "tweet_count" : 685,
   "month" : 3
 }, {
   "file_name" : "data\/js\/tweets\/2017_02.js",
   "year" : 2017,
   "var_name" : "tweets_2017_02",
-  "tweet_count" : 1410,
+  "tweet_count" : 1408,
   "month" : 2
 }, {
   "file_name" : "data\/js\/tweets\/2017_01.js",
   "year" : 2017,
   "var_name" : "tweets_2017_01",
-  "tweet_count" : 1676,
+  "tweet_count" : 1674,
   "month" : 1
 }, {
   "file_name" : "data\/js\/tweets\/2016_12.js",
   "year" : 2016,
   "var_name" : "tweets_2016_12",
-  "tweet_count" : 1505,
+  "tweet_count" : 1504,
   "month" : 12
 }, {
   "file_name" : "data\/js\/tweets\/2016_11.js",
   "year" : 2016,
   "var_name" : "tweets_2016_11",
-  "tweet_count" : 1297,
+  "tweet_count" : 1294,
   "month" : 11
 }, {
   "file_name" : "data\/js\/tweets\/2016_10.js",
   "year" : 2016,
   "var_name" : "tweets_2016_10",
-  "tweet_count" : 1764,
+  "tweet_count" : 1763,
   "month" : 10
 }, {
   "file_name" : "data\/js\/tweets\/2016_09.js",
   "year" : 2016,
   "var_name" : "tweets_2016_09",
-  "tweet_count" : 1721,
+  "tweet_count" : 1720,
   "month" : 9
 }, {
   "file_name" : "data\/js\/tweets\/2016_08.js",
   "year" : 2016,
   "var_name" : "tweets_2016_08",
-  "tweet_count" : 1325,
+  "tweet_count" : 1322,
   "month" : 8
 }, {
   "file_name" : "data\/js\/tweets\/2016_07.js",
   "year" : 2016,
   "var_name" : "tweets_2016_07",
-  "tweet_count" : 1833,
+  "tweet_count" : 1832,
   "month" : 7
 }, {
   "file_name" : "data\/js\/tweets\/2016_06.js",
   "year" : 2016,
   "var_name" : "tweets_2016_06",
-  "tweet_count" : 1379,
+  "tweet_count" : 1376,
   "month" : 6
 }, {
   "file_name" : "data\/js\/tweets\/2016_05.js",
   "year" : 2016,
   "var_name" : "tweets_2016_05",
-  "tweet_count" : 1920,
+  "tweet_count" : 1917,
   "month" : 5
 }, {
   "file_name" : "data\/js\/tweets\/2016_04.js",
   "year" : 2016,
   "var_name" : "tweets_2016_04",
-  "tweet_count" : 1429,
+  "tweet_count" : 1426,
   "month" : 4
 }, {
   "file_name" : "data\/js\/tweets\/2016_03.js",
   "year" : 2016,
   "var_name" : "tweets_2016_03",
-  "tweet_count" : 1464,
+  "tweet_count" : 1461,
   "month" : 3
 }, {
   "file_name" : "data\/js\/tweets\/2016_02.js",
   "year" : 2016,
   "var_name" : "tweets_2016_02",
-  "tweet_count" : 1341,
+  "tweet_count" : 1338,
   "month" : 2
 }, {
   "file_name" : "data\/js\/tweets\/2016_01.js",
   "year" : 2016,
   "var_name" : "tweets_2016_01",
-  "tweet_count" : 1738,
+  "tweet_count" : 1733,
   "month" : 1
 }, {
   "file_name" : "data\/js\/tweets\/2015_12.js",
   "year" : 2015,
   "var_name" : "tweets_2015_12",
-  "tweet_count" : 1701,
+  "tweet_count" : 1700,
   "month" : 12
 }, {
   "file_name" : "data\/js\/tweets\/2015_11.js",
   "year" : 2015,
   "var_name" : "tweets_2015_11",
-  "tweet_count" : 1108,
+  "tweet_count" : 1106,
   "month" : 11
 }, {
   "file_name" : "data\/js\/tweets\/2015_10.js",
@@ -170,73 +194,73 @@ var tweet_index =  [ {
   "file_name" : "data\/js\/tweets\/2015_09.js",
   "year" : 2015,
   "var_name" : "tweets_2015_09",
-  "tweet_count" : 1598,
+  "tweet_count" : 1599,
   "month" : 9
 }, {
   "file_name" : "data\/js\/tweets\/2015_08.js",
   "year" : 2015,
   "var_name" : "tweets_2015_08",
-  "tweet_count" : 1292,
+  "tweet_count" : 1290,
   "month" : 8
 }, {
   "file_name" : "data\/js\/tweets\/2015_07.js",
   "year" : 2015,
   "var_name" : "tweets_2015_07",
-  "tweet_count" : 1332,
+  "tweet_count" : 1329,
   "month" : 7
 }, {
   "file_name" : "data\/js\/tweets\/2015_06.js",
   "year" : 2015,
   "var_name" : "tweets_2015_06",
-  "tweet_count" : 1015,
+  "tweet_count" : 1013,
   "month" : 6
 }, {
   "file_name" : "data\/js\/tweets\/2015_05.js",
   "year" : 2015,
   "var_name" : "tweets_2015_05",
-  "tweet_count" : 1575,
+  "tweet_count" : 1571,
   "month" : 5
 }, {
   "file_name" : "data\/js\/tweets\/2015_04.js",
   "year" : 2015,
   "var_name" : "tweets_2015_04",
-  "tweet_count" : 1749,
+  "tweet_count" : 1747,
   "month" : 4
 }, {
   "file_name" : "data\/js\/tweets\/2015_03.js",
   "year" : 2015,
   "var_name" : "tweets_2015_03",
-  "tweet_count" : 2476,
+  "tweet_count" : 2479,
   "month" : 3
 }, {
   "file_name" : "data\/js\/tweets\/2015_02.js",
   "year" : 2015,
   "var_name" : "tweets_2015_02",
-  "tweet_count" : 2684,
+  "tweet_count" : 2682,
   "month" : 2
 }, {
   "file_name" : "data\/js\/tweets\/2015_01.js",
   "year" : 2015,
   "var_name" : "tweets_2015_01",
-  "tweet_count" : 4765,
+  "tweet_count" : 4754,
   "month" : 1
 }, {
   "file_name" : "data\/js\/tweets\/2014_12.js",
   "year" : 2014,
   "var_name" : "tweets_2014_12",
-  "tweet_count" : 4541,
+  "tweet_count" : 4533,
   "month" : 12
 }, {
   "file_name" : "data\/js\/tweets\/2014_11.js",
   "year" : 2014,
   "var_name" : "tweets_2014_11",
-  "tweet_count" : 3599,
+  "tweet_count" : 3598,
   "month" : 11
 }, {
   "file_name" : "data\/js\/tweets\/2014_10.js",
   "year" : 2014,
   "var_name" : "tweets_2014_10",
-  "tweet_count" : 2986,
+  "tweet_count" : 2984,
   "month" : 10
 }, {
   "file_name" : "data\/js\/tweets\/2014_09.js",
@@ -248,91 +272,91 @@ var tweet_index =  [ {
   "file_name" : "data\/js\/tweets\/2014_08.js",
   "year" : 2014,
   "var_name" : "tweets_2014_08",
-  "tweet_count" : 3366,
+  "tweet_count" : 3362,
   "month" : 8
 }, {
   "file_name" : "data\/js\/tweets\/2014_07.js",
   "year" : 2014,
   "var_name" : "tweets_2014_07",
-  "tweet_count" : 4832,
+  "tweet_count" : 4829,
   "month" : 7
 }, {
   "file_name" : "data\/js\/tweets\/2014_06.js",
   "year" : 2014,
   "var_name" : "tweets_2014_06",
-  "tweet_count" : 3904,
+  "tweet_count" : 3905,
   "month" : 6
 }, {
   "file_name" : "data\/js\/tweets\/2014_05.js",
   "year" : 2014,
   "var_name" : "tweets_2014_05",
-  "tweet_count" : 5089,
+  "tweet_count" : 5087,
   "month" : 5
 }, {
   "file_name" : "data\/js\/tweets\/2014_04.js",
   "year" : 2014,
   "var_name" : "tweets_2014_04",
-  "tweet_count" : 3513,
+  "tweet_count" : 3510,
   "month" : 4
 }, {
   "file_name" : "data\/js\/tweets\/2014_03.js",
   "year" : 2014,
   "var_name" : "tweets_2014_03",
-  "tweet_count" : 4559,
+  "tweet_count" : 4553,
   "month" : 3
 }, {
   "file_name" : "data\/js\/tweets\/2014_02.js",
   "year" : 2014,
   "var_name" : "tweets_2014_02",
-  "tweet_count" : 3912,
+  "tweet_count" : 3911,
   "month" : 2
 }, {
   "file_name" : "data\/js\/tweets\/2014_01.js",
   "year" : 2014,
   "var_name" : "tweets_2014_01",
-  "tweet_count" : 4694,
+  "tweet_count" : 4696,
   "month" : 1
 }, {
   "file_name" : "data\/js\/tweets\/2013_12.js",
   "year" : 2013,
   "var_name" : "tweets_2013_12",
-  "tweet_count" : 4818,
+  "tweet_count" : 4811,
   "month" : 12
 }, {
   "file_name" : "data\/js\/tweets\/2013_11.js",
   "year" : 2013,
   "var_name" : "tweets_2013_11",
-  "tweet_count" : 4186,
+  "tweet_count" : 4184,
   "month" : 11
 }, {
   "file_name" : "data\/js\/tweets\/2013_10.js",
   "year" : 2013,
   "var_name" : "tweets_2013_10",
-  "tweet_count" : 2794,
+  "tweet_count" : 2792,
   "month" : 10
 }, {
   "file_name" : "data\/js\/tweets\/2013_09.js",
   "year" : 2013,
   "var_name" : "tweets_2013_09",
-  "tweet_count" : 2887,
+  "tweet_count" : 2885,
   "month" : 9
 }, {
   "file_name" : "data\/js\/tweets\/2013_08.js",
   "year" : 2013,
   "var_name" : "tweets_2013_08",
-  "tweet_count" : 2466,
+  "tweet_count" : 2468,
   "month" : 8
 }, {
   "file_name" : "data\/js\/tweets\/2013_07.js",
   "year" : 2013,
   "var_name" : "tweets_2013_07",
-  "tweet_count" : 4121,
+  "tweet_count" : 4115,
   "month" : 7
 }, {
   "file_name" : "data\/js\/tweets\/2013_06.js",
   "year" : 2013,
   "var_name" : "tweets_2013_06",
-  "tweet_count" : 4504,
+  "tweet_count" : 4505,
   "month" : 6
 }, {
   "file_name" : "data\/js\/tweets\/2013_05.js",
@@ -344,7 +368,7 @@ var tweet_index =  [ {
   "file_name" : "data\/js\/tweets\/2013_04.js",
   "year" : 2013,
   "var_name" : "tweets_2013_04",
-  "tweet_count" : 3693,
+  "tweet_count" : 3688,
   "month" : 4
 }, {
   "file_name" : "data\/js\/tweets\/2013_03.js",
@@ -356,19 +380,19 @@ var tweet_index =  [ {
   "file_name" : "data\/js\/tweets\/2013_02.js",
   "year" : 2013,
   "var_name" : "tweets_2013_02",
-  "tweet_count" : 2464,
+  "tweet_count" : 2460,
   "month" : 2
 }, {
   "file_name" : "data\/js\/tweets\/2013_01.js",
   "year" : 2013,
   "var_name" : "tweets_2013_01",
-  "tweet_count" : 3948,
+  "tweet_count" : 3947,
   "month" : 1
 }, {
   "file_name" : "data\/js\/tweets\/2012_12.js",
   "year" : 2012,
   "var_name" : "tweets_2012_12",
-  "tweet_count" : 3943,
+  "tweet_count" : 3939,
   "month" : 12
 }, {
   "file_name" : "data\/js\/tweets\/2012_11.js",
@@ -380,37 +404,37 @@ var tweet_index =  [ {
   "file_name" : "data\/js\/tweets\/2012_10.js",
   "year" : 2012,
   "var_name" : "tweets_2012_10",
-  "tweet_count" : 4048,
+  "tweet_count" : 4044,
   "month" : 10
 }, {
   "file_name" : "data\/js\/tweets\/2012_09.js",
   "year" : 2012,
   "var_name" : "tweets_2012_09",
-  "tweet_count" : 2615,
+  "tweet_count" : 2617,
   "month" : 9
 }, {
   "file_name" : "data\/js\/tweets\/2012_08.js",
   "year" : 2012,
   "var_name" : "tweets_2012_08",
-  "tweet_count" : 2447,
+  "tweet_count" : 2446,
   "month" : 8
 }, {
   "file_name" : "data\/js\/tweets\/2012_07.js",
   "year" : 2012,
   "var_name" : "tweets_2012_07",
-  "tweet_count" : 2607,
+  "tweet_count" : 2605,
   "month" : 7
 }, {
   "file_name" : "data\/js\/tweets\/2012_06.js",
   "year" : 2012,
   "var_name" : "tweets_2012_06",
-  "tweet_count" : 1815,
+  "tweet_count" : 1811,
   "month" : 6
 }, {
   "file_name" : "data\/js\/tweets\/2012_05.js",
   "year" : 2012,
   "var_name" : "tweets_2012_05",
-  "tweet_count" : 3152,
+  "tweet_count" : 3145,
   "month" : 5
 }, {
   "file_name" : "data\/js\/tweets\/2012_04.js",
@@ -434,49 +458,49 @@ var tweet_index =  [ {
   "file_name" : "data\/js\/tweets\/2012_01.js",
   "year" : 2012,
   "var_name" : "tweets_2012_01",
-  "tweet_count" : 2771,
+  "tweet_count" : 2761,
   "month" : 1
 }, {
   "file_name" : "data\/js\/tweets\/2011_12.js",
   "year" : 2011,
   "var_name" : "tweets_2011_12",
-  "tweet_count" : 1939,
+  "tweet_count" : 1936,
   "month" : 12
 }, {
   "file_name" : "data\/js\/tweets\/2011_11.js",
   "year" : 2011,
   "var_name" : "tweets_2011_11",
-  "tweet_count" : 1860,
+  "tweet_count" : 1858,
   "month" : 11
 }, {
   "file_name" : "data\/js\/tweets\/2011_10.js",
   "year" : 2011,
   "var_name" : "tweets_2011_10",
-  "tweet_count" : 1628,
+  "tweet_count" : 1622,
   "month" : 10
 }, {
   "file_name" : "data\/js\/tweets\/2011_09.js",
   "year" : 2011,
   "var_name" : "tweets_2011_09",
-  "tweet_count" : 2476,
+  "tweet_count" : 2470,
   "month" : 9
 }, {
   "file_name" : "data\/js\/tweets\/2011_08.js",
   "year" : 2011,
   "var_name" : "tweets_2011_08",
-  "tweet_count" : 2427,
+  "tweet_count" : 2424,
   "month" : 8
 }, {
   "file_name" : "data\/js\/tweets\/2011_07.js",
   "year" : 2011,
   "var_name" : "tweets_2011_07",
-  "tweet_count" : 3668,
+  "tweet_count" : 3663,
   "month" : 7
 }, {
   "file_name" : "data\/js\/tweets\/2011_06.js",
   "year" : 2011,
   "var_name" : "tweets_2011_06",
-  "tweet_count" : 2607,
+  "tweet_count" : 2602,
   "month" : 6
 }, {
   "file_name" : "data\/js\/tweets\/2011_05.js",
@@ -488,25 +512,25 @@ var tweet_index =  [ {
   "file_name" : "data\/js\/tweets\/2011_04.js",
   "year" : 2011,
   "var_name" : "tweets_2011_04",
-  "tweet_count" : 2274,
+  "tweet_count" : 2271,
   "month" : 4
 }, {
   "file_name" : "data\/js\/tweets\/2011_03.js",
   "year" : 2011,
   "var_name" : "tweets_2011_03",
-  "tweet_count" : 2710,
+  "tweet_count" : 2706,
   "month" : 3
 }, {
   "file_name" : "data\/js\/tweets\/2011_02.js",
   "year" : 2011,
   "var_name" : "tweets_2011_02",
-  "tweet_count" : 2080,
+  "tweet_count" : 2078,
   "month" : 2
 }, {
   "file_name" : "data\/js\/tweets\/2011_01.js",
   "year" : 2011,
   "var_name" : "tweets_2011_01",
-  "tweet_count" : 1736,
+  "tweet_count" : 1735,
   "month" : 1
 }, {
   "file_name" : "data\/js\/tweets\/2010_12.js",

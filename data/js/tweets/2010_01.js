@@ -8,6 +8,72 @@ Grailbird.data.tweets_2010_01 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "8438875253",
+  "text" : "\uFF12\u6642\u9593\u524D\u306B\u66F8\u8A18\u9577\u304B\u3089\u96FB\u8A71\u6765\u3066\u305F\u3088\u3046\u3060\u3002\u73CD\u3057\u3044\u2026",
+  "id" : 8438875253,
+  "created_at" : "2010-01-31 00:00:00 +0000",
+  "user" : {
+    "name" : "noko.Karaffe\u958B\u767A\u4E2D\u2615",
+    "screen_name" : "noko_k",
+    "protected" : false,
+    "id_str" : "93628973",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/933671103427330048\/4OGRnbGG_normal.jpg",
+    "id" : 93628973,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "8438891926",
+  "text" : "\u306A\u306B\u304B\u3042\u3063\u305F\u304B\u2026\u3042\u3001\u9001\u5225\u4F1A\u304B\u3002",
+  "id" : 8438891926,
+  "created_at" : "2010-01-31 00:00:00 +0000",
+  "user" : {
+    "name" : "noko.Karaffe\u958B\u767A\u4E2D\u2615",
+    "screen_name" : "noko_k",
+    "protected" : false,
+    "id_str" : "93628973",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/933671103427330048\/4OGRnbGG_normal.jpg",
+    "id" : 93628973,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "8447383984",
+  "text" : "\u30AB\u30E9\u30AA\u30B1\u884C\u3063\u3066\u304D\u305F\uFF01\u9001\u5225\u4F1A\u4E88\u884C\uFF57\u697D\u3057\u304B\u3063\u305F\uFF01",
+  "id" : 8447383984,
+  "created_at" : "2010-01-31 00:00:00 +0000",
+  "user" : {
+    "name" : "noko.Karaffe\u958B\u767A\u4E2D\u2615",
+    "screen_name" : "noko_k",
+    "protected" : false,
+    "id_str" : "93628973",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/933671103427330048\/4OGRnbGG_normal.jpg",
+    "id" : 93628973,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "8447405935",
   "text" : "\u66F8\u8A18\u9577\u306F\u6B4C\u304C\u4E0A\u624B\u304B\u3063\u305F\uFF01",
   "id" : 8447405935,
@@ -250,54 +316,10 @@ Grailbird.data.tweets_2010_01 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "8438875253",
-  "text" : "\uFF12\u6642\u9593\u524D\u306B\u66F8\u8A18\u9577\u304B\u3089\u96FB\u8A71\u6765\u3066\u305F\u3088\u3046\u3060\u3002\u73CD\u3057\u3044\u2026",
-  "id" : 8438875253,
-  "created_at" : "2010-01-31 00:00:00 +0000",
-  "user" : {
-    "name" : "noko.Karaffe\u958B\u767A\u4E2D\u2615",
-    "screen_name" : "noko_k",
-    "protected" : false,
-    "id_str" : "93628973",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/933671103427330048\/4OGRnbGG_normal.jpg",
-    "id" : 93628973,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "8438891926",
-  "text" : "\u306A\u306B\u304B\u3042\u3063\u305F\u304B\u2026\u3042\u3001\u9001\u5225\u4F1A\u304B\u3002",
-  "id" : 8438891926,
-  "created_at" : "2010-01-31 00:00:00 +0000",
-  "user" : {
-    "name" : "noko.Karaffe\u958B\u767A\u4E2D\u2615",
-    "screen_name" : "noko_k",
-    "protected" : false,
-    "id_str" : "93628973",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/933671103427330048\/4OGRnbGG_normal.jpg",
-    "id" : 93628973,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "8447383984",
-  "text" : "\u30AB\u30E9\u30AA\u30B1\u884C\u3063\u3066\u304D\u305F\uFF01\u9001\u5225\u4F1A\u4E88\u884C\uFF57\u697D\u3057\u304B\u3063\u305F\uFF01",
-  "id" : 8447383984,
-  "created_at" : "2010-01-31 00:00:00 +0000",
+  "id_str" : "8406818597",
+  "text" : "\u81EA\u5206\u3067\u7814\u3044\u3067\u708A\u3044\u305F\u3054\u98EF\u304C\u3046\u307E\u3044\u3068\u601D\u3063\u305F\u4ECA\u65E5\u3053\u306E\u9803\u3002",
+  "id" : 8406818597,
+  "created_at" : "2010-01-30 00:00:00 +0000",
   "user" : {
     "name" : "noko.Karaffe\u958B\u767A\u4E2D\u2615",
     "screen_name" : "noko_k",
@@ -438,28 +460,6 @@ Grailbird.data.tweets_2010_01 =
   "id_str" : "8406757951",
   "text" : "\u5B8C\u6210\u3002",
   "id" : 8406757951,
-  "created_at" : "2010-01-30 00:00:00 +0000",
-  "user" : {
-    "name" : "noko.Karaffe\u958B\u767A\u4E2D\u2615",
-    "screen_name" : "noko_k",
-    "protected" : false,
-    "id_str" : "93628973",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/933671103427330048\/4OGRnbGG_normal.jpg",
-    "id" : 93628973,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "8406818597",
-  "text" : "\u81EA\u5206\u3067\u7814\u3044\u3067\u708A\u3044\u305F\u3054\u98EF\u304C\u3046\u307E\u3044\u3068\u601D\u3063\u305F\u4ECA\u65E5\u3053\u306E\u9803\u3002",
-  "id" : 8406818597,
   "created_at" : "2010-01-30 00:00:00 +0000",
   "user" : {
     "name" : "noko.Karaffe\u958B\u767A\u4E2D\u2615",
@@ -1388,105 +1388,6 @@ Grailbird.data.tweets_2010_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "8143217942",
-  "text" : "\u7720\u3044",
-  "id" : 8143217942,
-  "created_at" : "2010-01-24 00:00:00 +0000",
-  "user" : {
-    "name" : "noko.Karaffe\u958B\u767A\u4E2D\u2615",
-    "screen_name" : "noko_k",
-    "protected" : false,
-    "id_str" : "93628973",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/933671103427330048\/4OGRnbGG_normal.jpg",
-    "id" : 93628973,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "8143233646",
-  "text" : "\u7720\u3044\u3088\u3046",
-  "id" : 8143233646,
-  "created_at" : "2010-01-24 00:00:00 +0000",
-  "user" : {
-    "name" : "noko.Karaffe\u958B\u767A\u4E2D\u2615",
-    "screen_name" : "noko_k",
-    "protected" : false,
-    "id_str" : "93628973",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/933671103427330048\/4OGRnbGG_normal.jpg",
-    "id" : 93628973,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "8143279326",
-  "text" : "\u3053\u3046\u3044\u3046\u306E\u3092\u30CB\u30B3\u53A8\u3063\u3066\u8A00\u3046\u306E\u304B\u306A\u2026\u3063\u3066\u4FFA\u304B",
-  "id" : 8143279326,
-  "created_at" : "2010-01-24 00:00:00 +0000",
-  "user" : {
-    "name" : "noko.Karaffe\u958B\u767A\u4E2D\u2615",
-    "screen_name" : "noko_k",
-    "protected" : false,
-    "id_str" : "93628973",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/933671103427330048\/4OGRnbGG_normal.jpg",
-    "id" : 93628973,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Gathoni A",
-      "screen_name" : "Kaniso",
-      "indices" : [ 0, 7 ],
-      "id_str" : "129059207",
-      "id" : 129059207
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "8136413708",
-  "geo" : { },
-  "id_str" : "8143779666",
-  "in_reply_to_user_id" : 103561570,
-  "text" : "@kaniso \u51FA\u6765\u308B\u3068\u9762\u767D\u3044\u3088\u306A",
-  "id" : 8143779666,
-  "in_reply_to_status_id" : 8136413708,
-  "created_at" : "2010-01-24 00:00:00 +0000",
-  "in_reply_to_screen_name" : "kani_m",
-  "in_reply_to_user_id_str" : "103561570",
-  "user" : {
-    "name" : "noko.Karaffe\u958B\u767A\u4E2D\u2615",
-    "screen_name" : "noko_k",
-    "protected" : false,
-    "id_str" : "93628973",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/933671103427330048\/4OGRnbGG_normal.jpg",
-    "id" : 93628973,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ {
       "name" : "Gathoni A",
       "screen_name" : "Kaniso",
@@ -1605,6 +1506,105 @@ Grailbird.data.tweets_2010_01 =
   "created_at" : "2010-01-24 00:00:00 +0000",
   "in_reply_to_screen_name" : "feke_h",
   "in_reply_to_user_id_str" : "104122272",
+  "user" : {
+    "name" : "noko.Karaffe\u958B\u767A\u4E2D\u2615",
+    "screen_name" : "noko_k",
+    "protected" : false,
+    "id_str" : "93628973",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/933671103427330048\/4OGRnbGG_normal.jpg",
+    "id" : 93628973,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "8143217942",
+  "text" : "\u7720\u3044",
+  "id" : 8143217942,
+  "created_at" : "2010-01-24 00:00:00 +0000",
+  "user" : {
+    "name" : "noko.Karaffe\u958B\u767A\u4E2D\u2615",
+    "screen_name" : "noko_k",
+    "protected" : false,
+    "id_str" : "93628973",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/933671103427330048\/4OGRnbGG_normal.jpg",
+    "id" : 93628973,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "8143233646",
+  "text" : "\u7720\u3044\u3088\u3046",
+  "id" : 8143233646,
+  "created_at" : "2010-01-24 00:00:00 +0000",
+  "user" : {
+    "name" : "noko.Karaffe\u958B\u767A\u4E2D\u2615",
+    "screen_name" : "noko_k",
+    "protected" : false,
+    "id_str" : "93628973",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/933671103427330048\/4OGRnbGG_normal.jpg",
+    "id" : 93628973,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "8143279326",
+  "text" : "\u3053\u3046\u3044\u3046\u306E\u3092\u30CB\u30B3\u53A8\u3063\u3066\u8A00\u3046\u306E\u304B\u306A\u2026\u3063\u3066\u4FFA\u304B",
+  "id" : 8143279326,
+  "created_at" : "2010-01-24 00:00:00 +0000",
+  "user" : {
+    "name" : "noko.Karaffe\u958B\u767A\u4E2D\u2615",
+    "screen_name" : "noko_k",
+    "protected" : false,
+    "id_str" : "93628973",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/933671103427330048\/4OGRnbGG_normal.jpg",
+    "id" : 93628973,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Gathoni A",
+      "screen_name" : "Kaniso",
+      "indices" : [ 0, 7 ],
+      "id_str" : "129059207",
+      "id" : 129059207
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "8136413708",
+  "geo" : { },
+  "id_str" : "8143779666",
+  "in_reply_to_user_id" : 103561570,
+  "text" : "@kaniso \u51FA\u6765\u308B\u3068\u9762\u767D\u3044\u3088\u306A",
+  "id" : 8143779666,
+  "in_reply_to_status_id" : 8136413708,
+  "created_at" : "2010-01-24 00:00:00 +0000",
+  "in_reply_to_screen_name" : "kani_m",
+  "in_reply_to_user_id_str" : "103561570",
   "user" : {
     "name" : "noko.Karaffe\u958B\u767A\u4E2D\u2615",
     "screen_name" : "noko_k",
@@ -2536,50 +2536,6 @@ Grailbird.data.tweets_2010_01 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "8026139980",
-  "text" : "\u8DB3\u306B\u307E\u3081\u304C\u3067\u304D\u3066\u308B\u03A3(\uFFE3\u25A1\uFFE3\uFF1B\u3057\u304B\u3082\u6F70\u308C\u3066\u308B\u03A3(\uFFE3\u25A1\uFFE3\uFF1B",
-  "id" : 8026139980,
-  "created_at" : "2010-01-21 00:00:00 +0000",
-  "user" : {
-    "name" : "noko.Karaffe\u958B\u767A\u4E2D\u2615",
-    "screen_name" : "noko_k",
-    "protected" : false,
-    "id_str" : "93628973",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/933671103427330048\/4OGRnbGG_normal.jpg",
-    "id" : 93628973,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "8027011982",
-  "text" : "\u306A\u30FC\u3093\u304B\u8179\u304C\u6E1B\u308B\u3093\u3060\u3088\u306A\u3041(\u00B4\uFF65\u03C9\uFF65`)\u3053\u306E\u6642\u9593\u306B\u306A\u308B\u3068",
-  "id" : 8027011982,
-  "created_at" : "2010-01-21 00:00:00 +0000",
-  "user" : {
-    "name" : "noko.Karaffe\u958B\u767A\u4E2D\u2615",
-    "screen_name" : "noko_k",
-    "protected" : false,
-    "id_str" : "93628973",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/933671103427330048\/4OGRnbGG_normal.jpg",
-    "id" : 93628973,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
   "id_str" : "8020356837",
   "text" : "\u643A\u5E2F\u3001\u4FEE\u7406\u306B\u51FA\u3057\u305F\u3002\u4EE3\u66FF\u6A5F\u304C\u304B\u306A\u308A\u4F7F\u3044\u3065\u3089\u3044",
   "id" : 8020356837,
@@ -2628,6 +2584,72 @@ Grailbird.data.tweets_2010_01 =
   "text" : "\u6700\u8FD1mixi\u884C\u3063\u3066\u306A\u3044\u306A\u2026",
   "id" : 8025991737,
   "created_at" : "2010-01-21 00:00:00 +0000",
+  "user" : {
+    "name" : "noko.Karaffe\u958B\u767A\u4E2D\u2615",
+    "screen_name" : "noko_k",
+    "protected" : false,
+    "id_str" : "93628973",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/933671103427330048\/4OGRnbGG_normal.jpg",
+    "id" : 93628973,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "8026139980",
+  "text" : "\u8DB3\u306B\u307E\u3081\u304C\u3067\u304D\u3066\u308B\u03A3(\uFFE3\u25A1\uFFE3\uFF1B\u3057\u304B\u3082\u6F70\u308C\u3066\u308B\u03A3(\uFFE3\u25A1\uFFE3\uFF1B",
+  "id" : 8026139980,
+  "created_at" : "2010-01-21 00:00:00 +0000",
+  "user" : {
+    "name" : "noko.Karaffe\u958B\u767A\u4E2D\u2615",
+    "screen_name" : "noko_k",
+    "protected" : false,
+    "id_str" : "93628973",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/933671103427330048\/4OGRnbGG_normal.jpg",
+    "id" : 93628973,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "8027011982",
+  "text" : "\u306A\u30FC\u3093\u304B\u8179\u304C\u6E1B\u308B\u3093\u3060\u3088\u306A\u3041(\u00B4\uFF65\u03C9\uFF65`)\u3053\u306E\u6642\u9593\u306B\u306A\u308B\u3068",
+  "id" : 8027011982,
+  "created_at" : "2010-01-21 00:00:00 +0000",
+  "user" : {
+    "name" : "noko.Karaffe\u958B\u767A\u4E2D\u2615",
+    "screen_name" : "noko_k",
+    "protected" : false,
+    "id_str" : "93628973",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/933671103427330048\/4OGRnbGG_normal.jpg",
+    "id" : 93628973,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "7985536349",
+  "text" : "\u7720\u3044\u2026",
+  "id" : 7985536349,
+  "created_at" : "2010-01-20 00:00:00 +0000",
   "user" : {
     "name" : "noko.Karaffe\u958B\u767A\u4E2D\u2615",
     "screen_name" : "noko_k",
@@ -2880,28 +2902,6 @@ Grailbird.data.tweets_2010_01 =
   "id_str" : "7983014857",
   "text" : "\u5B8C\u98DF\u306A\u3046",
   "id" : 7983014857,
-  "created_at" : "2010-01-20 00:00:00 +0000",
-  "user" : {
-    "name" : "noko.Karaffe\u958B\u767A\u4E2D\u2615",
-    "screen_name" : "noko_k",
-    "protected" : false,
-    "id_str" : "93628973",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/933671103427330048\/4OGRnbGG_normal.jpg",
-    "id" : 93628973,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "7985536349",
-  "text" : "\u7720\u3044\u2026",
-  "id" : 7985536349,
   "created_at" : "2010-01-20 00:00:00 +0000",
   "user" : {
     "name" : "noko.Karaffe\u958B\u767A\u4E2D\u2615",

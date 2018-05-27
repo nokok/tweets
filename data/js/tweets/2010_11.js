@@ -879,7 +879,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.toridge.com\/\" rel=\"nofollow\"\u003Etoirdge mob-twie\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u745E\u8CB4\u25C6\u5145\u96FB\u4E2D",
+      "name" : "\u745E\u8CB4\u308A\u3087\u3046",
       "screen_name" : "mizuki_ryo",
       "indices" : [ 0, 11 ],
       "id_str" : "54787496",
@@ -978,7 +978,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.toridge.com\/\" rel=\"nofollow\"\u003Etoirdge mob-twie\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u308B\u3045\u306A\u3093\uFF20C93 1\u65E5\u76EE\u67713,\u30A2-16a",
+      "name" : "\u308B\u3045\u306A\u3093@\u97F3\u3051\u3063\u3068\u5927\u962A6\/3, APOLLO6\/2-3\u53C2\u52A0\u4E88\u5B9A",
       "screen_name" : "lu_narn",
       "indices" : [ 3, 11 ],
       "id_str" : "67274156",
@@ -1005,7 +1005,7 @@ Grailbird.data.tweets_2010_11 =
     "id" : 8849446586556416,
     "created_at" : "2010-11-28 11:47:27 +0000",
     "user" : {
-      "name" : "\u308B\u3045\u306A\u3093\uFF20C93 1\u65E5\u76EE\u67713,\u30A2-16a",
+      "name" : "\u308B\u3045\u306A\u3093@\u97F3\u3051\u3063\u3068\u5927\u962A6\/3, APOLLO6\/2-3\u53C2\u52A0\u4E88\u5B9A",
       "screen_name" : "lu_narn",
       "protected" : false,
       "id_str" : "67274156",
@@ -4477,7 +4477,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "yowanep",
       "protected" : false,
       "id_str" : "87565265",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/946741729977278465\/xvBATULa_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/985505753401245697\/fQNdc4Vg_normal.jpg",
       "id" : 87565265,
       "verified" : false
     }
@@ -5105,7 +5105,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "doriko(8\/30\u30A2\u30EB\u30D0\u30E0)",
+      "name" : "doriko",
       "screen_name" : "doriko_",
       "indices" : [ 3, 11 ],
       "id_str" : "71890736",
@@ -5132,7 +5132,7 @@ Grailbird.data.tweets_2010_11 =
     "id" : 4810977165975552,
     "created_at" : "2010-11-17 08:20:00 +0000",
     "user" : {
-      "name" : "doriko(8\/30\u30A2\u30EB\u30D0\u30E0)",
+      "name" : "doriko",
       "screen_name" : "doriko_",
       "protected" : false,
       "id_str" : "71890736",
@@ -5486,7 +5486,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u307E\u3055\u307F\u30C6\u30A3\u30FC\u91D1\u66DC\u65E5\u6771\u304405b",
+      "name" : "\u307E\u3055\u307F\u30C6\u30A3\u30FC",
       "screen_name" : "MasamiT",
       "indices" : [ 0, 8 ],
       "id_str" : "61924020",
@@ -5651,7 +5651,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u307E\u3055\u307F\u30C6\u30A3\u30FC\u91D1\u66DC\u65E5\u6771\u304405b",
+      "name" : "\u307E\u3055\u307F\u30C6\u30A3\u30FC",
       "screen_name" : "MasamiT",
       "indices" : [ 0, 8 ],
       "id_str" : "61924020",
@@ -8302,7 +8302,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3076\u3089\u3046\u3093",
+      "name" : "\u3076\u3089\u3046\u3093@\u30A2\u30AB\u30A6\u30F3\u30C8\u79FB\u884C\u3057\u307E\u3057\u305F",
       "screen_name" : "brown024",
       "indices" : [ 3, 12 ],
       "id_str" : "107021737",
@@ -8351,7 +8351,7 @@ Grailbird.data.tweets_2010_11 =
     "id" : 29462429098,
     "created_at" : "2010-11-02 11:54:58 +0000",
     "user" : {
-      "name" : "\u3076\u3089\u3046\u3093",
+      "name" : "\u3076\u3089\u3046\u3093@\u30A2\u30AB\u30A6\u30F3\u30C8\u79FB\u884C\u3057\u307E\u3057\u305F",
       "screen_name" : "brown024",
       "protected" : true,
       "id_str" : "107021737",
